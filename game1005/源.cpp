@@ -54,9 +54,9 @@ int main() {
 	//cout << a << endl;
 	//int a = 10;
 	//cout << !a << endl;
-	int a = 10;
-	int b = 10;
-	cout << (a && b) << endl;d
+	//int a = 10;
+	//int b = 10;
+	//cout << (a && b) << endl;d
    
 	
 	system("pause");
