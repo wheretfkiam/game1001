@@ -18,5 +18,8 @@
     <ClCompile Include="switch语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1001Lab_exercise2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
